@@ -89,28 +89,28 @@
         "payer_id": 1,
         "image": "user1.png",
         "name": "Beats logo design company",
-        "price": "-750",
+        "price": "-$750",
         "code": "**6747788"
       },
       {
         "payer_id": 2,
         "image": "user2.png",
         "name": "Beats logo design company",
-        "price": "+760",
+        "price": "+$760",
         "code": "**6747788"
       },
       {
         "payer_id": 3,
         "image": "user3.png",
         "name": "Beats logo design company",
-        "price": "+770",
+        "price": "+$770",
         "code": "**6747788"
       },
       {
         "payer_id": 4,
         "image": "user4.png",
         "name": "Beats logo design company",
-        "price": "-780",
+        "price": "-$780",
         "code": "**6747788"
       }
     ]

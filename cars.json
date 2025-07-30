@@ -1,5 +1,6 @@
 [
-  id: 1,
+ {
+    id: 1,
   compony: "Amazon",
   page: "https://amazon.com/",
   products: [
@@ -32,4 +33,5 @@
     "image": "img4.png"
   }
   ]
+ }
 ]

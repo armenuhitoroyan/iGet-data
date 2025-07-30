@@ -1,9 +1,9 @@
 [
  {
-  id: 1,
-  compony: "Amazon",
-  page: "https://amazon.com/",
-  products: [
+  "id": 1,
+  "compony": "Amazon",
+  "page": "https://amazon.com/",
+  "products": [
     {
      "product_id": 1,
      "car_brand": "Chevrolet volt",

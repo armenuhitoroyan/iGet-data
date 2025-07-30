@@ -1,37 +1,38 @@
 [
  {
-    id: 1,
+  id: 1,
   compony: "Amazon",
   page: "https://amazon.com/",
   products: [
     {
-    "product_id": 1,
-    "car_brand": "Chevrolet volt",
-    "year": "2019",
-    "price": "12.000",
-    "image": "img1.png"
-  },
-  {
-    "id": 2,
-    "car_brand": "Chevrolet volt",
-    "year": "2020",
-    "price": "13.000",
-    "image": "img2.png"
-  },
-  {
-    "id": 3,
-    "car_brand": "Chevrolet volt",
-    "year": "2021",
-    "price": "14.000",
-    "image": "img3.png"
-  },
-  {
-    "id": 4,
-    "car_brand": "Chevrolet volt",
-    "year": "2022",
-    "price": "15.000",
-    "image": "img4.png"
-  }
+     "product_id": 1,
+     "car_brand": "Chevrolet volt",
+     "year": "2019",
+     "price": "12.000",
+     "image": "img1.png"
+    },
+    {
+      "product_id": 2,
+      "car_brand": "Chevrolet volt",
+      "year": "2020",
+      "price": "13.000",
+      "image": "img2.png"
+    },
+    {
+      "product_id": 3,
+      "car_brand": "Chevrolet volt",
+      "year": "2021",
+      "price": "14.000",
+      "image": "img3.png"
+    },
+    {
+      "product_id": 4,
+      "car_brand": "Chevrolet volt",
+      "year": "2022",
+      "price": "15.000",
+      "image": "img4.png"
+    }
   ]
  }
 ]
+

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "plan": "Basic Plan",
+    "money": 0
+  },
+   {
+    "id": 2,
+    "plan": "Stander Plan",
+    "money": 30
+  },
+   {
+    "id": 3,
+    "plan": "Pro Plan",
+    "money": 0
+  },
+   {
+    "id": 4,
+    "plan": "Unlimited Plan",
+    "money": 120
+  }
+]

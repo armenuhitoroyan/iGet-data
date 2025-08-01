@@ -8,22 +8,22 @@
   "image": "Riangle.png",
   "plans": [
     {
-     "plan_id": 1;
-     "plan": "30h Fast generations";
+     "plan_id": 1,
+     "plan": "30h Fast generations"
     },
      {
-     "plan_id": 2;
-     "plan": "Unlimited Relaxed generations";
+     "plan_id": 2,
+     "plan": "Unlimited Relaxed generations"
     },
      {
-     "plan_id": 3;
-     "plan": "General commercial termss";
+     "plan_id": 3,
+     "plan": "General commercial termss"
     }, 
      {
-     "plan_id": 4;
-     "plan": "Access to member gallery";
+     "plan_id": 4,
+     "plan": "Access to member gallery"
     }
-  ];
+  ]
   },
    {
   "id": 2,
@@ -34,10 +34,10 @@
   "image": "Riangle.png",
   "plans": [
     {
-     "plan_id": 1;
-     "plan": "30h Fast generations";
+     "plan_id": 1,
+     "plan": "30h Fast generations"
     }
-  ];
+  ]
   },
    {
   "id": 3,
@@ -48,18 +48,18 @@
   "image": "Riangle.png",
   "plans": [
     {
-     "plan_id": 1;
-     "plan": "30h Fast generations";
+     "plan_id": 1,
+     "plan": "30h Fast generations"
     },
      {
-     "plan_id": 2;
-     "plan": "Unlimited Relaxed generations";
+     "plan_id": 2,
+     "plan": "Unlimited Relaxed generations"
     },
      {
-     "plan_id": 3;
-     "plan": "General commercial termss";
+     "plan_id": 3,
+     "plan": "General commercial termss"
     }
-  ];
+  ]
   },
    {
   "id": 4,
@@ -70,10 +70,10 @@
   "image": "Riangle.png",
   "plans": [
     {
-     "plan_id": 1;
-     "plan": "30h Fast generations";
+     "plan_id": 1,
+     "plan": "30h Fast generations"
     }
-  ];
+  ]
   },
    {
   "id": 5,
@@ -84,18 +84,18 @@
   "image": "Riangle.png",
   "plans": [
     {
-     "plan_id": 1;
-     "plan": "30h Fast generations";
+     "plan_id": 1,
+     "plan": "30h Fast generations"
     },
      {
-     "plan_id": 2;
-     "plan": "Unlimited Relaxed generations";
+     "plan_id": 2,
+     "plan": "Unlimited Relaxed generations"
     },
      {
-     "plan_id": 3;
-     "plan": "General commercial termss";
+     "plan_id": 3,
+     "plan": "General commercial termss"
     }
-  ];
+  ]
   },
    {
   "id": 6,
@@ -106,13 +106,13 @@
   "image": "Riangle.png",
   "plans": [
     {
-     "plan_id": 1;
-     "plan": "30h Fast generations";
+     "plan_id": 1,
+     "plan": "30h Fast generations"
     },
      {
-     "plan_id": 2;
-     "plan": "Unlimited Relaxed generations";
+     "plan_id": 2,
+     "plan": "Unlimited Relaxed generations"
     }   
-  ];
+  ]
   }
 ]

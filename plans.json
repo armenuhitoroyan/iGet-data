@@ -18,5 +18,10 @@
     "id": 4,
     "plan": "Unlimited Plan",
     "money": 120
+  },
+  {
+    "id": 5,
+    "plan": "Basic Plan",
+    "money": 20
   }
 ]

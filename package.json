@@ -15,4 +15,5 @@
       { "country": "Brazil", "value": 0.01 },
     ],
     "activeSessions": { "current": 48, "max": 150 }  
+  }
 ]

@@ -13,5 +13,19 @@
     "id": 3,
     "plan": "Pro Plan",
     "money": 0
+  },  {
+    "id": 4,
+    "plan": "Unlimited Plan",
+    "money": 120
+  },
+   {
+    "id": 5,
+    "plan": "Pro Plan",
+    "money": 20
+  },
+{
+    "id": 6,
+    "plan": "Unlimited Plan",
+    "money": 50
   }
 ]

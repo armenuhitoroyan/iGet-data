@@ -13,15 +13,5 @@
     "id": 3,
     "plan": "Pro Plan",
     "money": 0
-  },
-   {
-    "id": 4,
-    "plan": "Unlimited Plan",
-    "money": 120
-  },
-  {
-    "id": 5,
-    "plan": "Basic Plan",
-    "money": 20
   }
 ]

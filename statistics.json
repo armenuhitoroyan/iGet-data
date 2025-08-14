@@ -12,8 +12,8 @@
       { "country": "China", "value": 0.8 },
       { "country": "USA", "value": 0.08 },
       { "country": "Russia", "value": 0.07 },
-      { "country": "Brazil", "value": 0.01 },
-    ]
+      { "country": "Brazil", "value": 0.01 }
+    ],
     "activeSessions": { "current": 48, "max": 150 }  
   }
 ]

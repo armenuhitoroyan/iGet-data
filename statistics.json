@@ -6,7 +6,7 @@
       "segments": [
         { "label": "Organic", "value": 0.6 },
         { "label": "Paid", "value": 0.4 }
-      ],
+      ]
     },
     "followerGrowth": [
       { "country": "China", "value": 0.8 },

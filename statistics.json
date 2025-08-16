@@ -4,16 +4,16 @@
     "reachedAudience": {
       "total": 20109,
       "segments": [
-        { "label": "Organic", "value": 0.6 },
-        { "label": "Paid", "value": 0.4 }
+        { "label": "Organic", "value": 60 },
+        { "label": "Paid", "value": 40 }
       ]
     },
     "followerGrowth": [
-      { "country": "China", "value": 0.8 },
-      { "country": "USA", "value": 0.08 },
-      { "country": "Russia", "value": 0.07 },
-      { "country": "Brazil", "value": 0.01 }
+      { "country": "China", "value": 90 },
+      { "country": "USA", "value": 8 },
+      { "country": "Russia", "value": 15 },
+      { "country": "Brazil", "value": 17 }
     ],
-    "activeSessions": { "current": 48, "max": 150 }
+    "activeSessions": { "activeCount": 10, "percentage": 32, "current": 48, "max": 150 }
   }
 ]
